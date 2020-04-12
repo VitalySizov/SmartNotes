@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SmartNotes</string>
+    <string name="add_note">Добавить заметку</string>
+    <string name="list_notes">Список заметок</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="edit_note">Редактировать заметку</string>
+    <string name="save_change_note">Сохранить изменения</string>
+    <string name="cancel_edit_note">Отменить изменения</string>
+    <string name="text_hint">Текст</string>
+    <string name="title_hint">Название</string>
+    <string name="text_empty_list">Список заметок пуст\nСоздайте свою первую заметку!</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="confirm_message_delete">Вы действительно хотите удалить\n%s ?</string>
+    <string name="confirm_message_cancel">Вы действительно хотите отменить\nвсе изменения ?</string>
+    <string name="confirm_message_save">Сохранить изменения ?</string>
+    <string name="export_to_txt">Экспорт в текстовый файл</string>
+</resources>
